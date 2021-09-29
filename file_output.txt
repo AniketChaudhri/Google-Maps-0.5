@@ -1,2 +1,0 @@
-student_name:none
-total marks:<built-in function sum>
