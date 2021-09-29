@@ -1,7 +1,6 @@
 Google Maps 0.5
----------------
+-----------------
 Course Instructor : Prof. Clint P. George
-Teaching Assistant: Dr. Chitra Nayagam
 
 Team: Beeline Pioneers
 
