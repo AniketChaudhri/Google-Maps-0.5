@@ -1,12 +1,11 @@
-"""
+'''
 Priority Queue is self implemented in Python 'Queue' library.
 But we faced some errors using that module. 
 Hence we made this file refering to Python Queue Documentation
 
-Code written by Adarsh Anand"""
+Code written by Adarsh Anand'''
 
 import heapq
-
 
 class AStarQueue(object):
     def __init__(self):
