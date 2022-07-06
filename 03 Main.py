@@ -1,13 +1,13 @@
 '''
             Google Maps 0.5
             CS101 mini Project
-            
-            by Beeline Pioneers, CSE 1st year, IIT Goa (Team Partners: Aniket Chaudhri, Adarsh Anand, Rajat Singh) 
-            
+
+            by Beeline Pioneers, CSE 1st year, IIT Goa (Team Partners: Aniket Chaudhri, Adarsh Anand, Rajat Singh)
+
             Course Instructor : Prof. Clint P. George
             Teaching Assistant: Dr. Chitra Nayagam'''
 '''
-In this project, we aim to showcase the how Google Maps work. 
+In this project, we aim to showcase the how Google Maps work.
 It provides the best shortest route from a user specified source to destination.
 The blocks/walls/traffic can be set by the user or using functionalities added for making grids and arbitrary traffic.
 
