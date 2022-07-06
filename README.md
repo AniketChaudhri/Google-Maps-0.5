@@ -21,7 +21,7 @@
 </div>
 
 # Project - "Google Maps 0.5"
-
+<!-- Final executable in dist folder -->
 ## Team: Beeline Pioneers
 
 <div>
