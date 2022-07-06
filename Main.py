@@ -27,9 +27,9 @@ Presentation Link - https://www.canva.com/design/DAEjgZf6MG4/fsHBkl26W2cx7HVIbWu
 # This sets the WIDTH and HEIGHT of each grid location
 
 # --------------Adarsh anand------------------
-from node import *
-from button import *
-from priority_queue import PrioritySet, PriorityQueue, AStarQueue
+from Node import *
+from Button import *
+from Priority_Queue import PrioritySet, PriorityQueue, AStarQueue
 import pygame
 import time
 import random

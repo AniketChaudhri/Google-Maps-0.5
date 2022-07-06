@@ -1,10 +1,9 @@
-'''
+"""
 Foundation for implementation of project.
 Works as the grid analogue of graph data structure
 
 Code written by Rajat Singh
 """
-
 
 
 from math import inf
