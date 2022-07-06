@@ -55,7 +55,7 @@ Python3 and using pygame library.
 
 ## Contributors
 
-A big shoutout to the 7map team working hard on this project.
+A big shoutout to the our team working hard on this project.
 
 <a href="https://github.com/AniketChaudhri/Google-Maps-0.5/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=AniketChaudhri/Google-Maps-0.5" />
