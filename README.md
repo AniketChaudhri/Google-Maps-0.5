@@ -100,6 +100,8 @@ BFS Algorithm
 
 - View the Slides here -> [Slides](https://www.canva.com/design/DAEjgZf6MG4/fsHBkl26W2cx7HVIbWu0Lg/view?utm_content=DAEjgZf6MG4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
+- View the executable file here -> [Exe file](https://adarshanand67.itch.io/pathfinding-visualizer)
+
 ## _License_
 
 - [MIT](https://choosealicense.com/licenses/mit/)
